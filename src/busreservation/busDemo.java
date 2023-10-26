@@ -25,7 +25,7 @@ public class busDemo {
             if(userOpt == 1){
                 Booking booking= new Booking();
                 if (booking.isAvalaible(bookings,busses));
-                booking.add
+                booking.add   // hello
 
 
             }
